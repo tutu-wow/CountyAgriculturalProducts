@@ -37,7 +37,7 @@
 | 分类 | 技术 |
 | --- | --- |
 | 前端（前台 + 后台） | Vue3、Vue Router、Pinia、Vite、Element-Plus、Axios、Sass |
-| 图表 / 地图 / 通信 | Echarts、WebSocket |
+| 图表 / 通信 | Echarts、WebSocket |
 | 后端 | Java、Spring Boot、MyBatis-Plus、JWT、LangChain4j、HanLP、WebSocket、Apache POI |
 | AI 模型 | DeepSeek 大模型接口 |
 | 第三方服务 | 支付宝 SDK（沙箱环境）、阿里云市场快递 Api |
